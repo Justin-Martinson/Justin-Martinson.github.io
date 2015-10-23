@@ -5,8 +5,9 @@
 
 .jumbotron {
     background-color: #009999;
+    color: #99ffff;
 }
 
 .jumbotron .title {
-    color: #00ff00;
+    color: #000099;
 }
