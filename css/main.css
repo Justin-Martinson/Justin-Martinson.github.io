@@ -1,8 +1,12 @@
-body {
+.custom-body {
     font-family: Georgia;
-    background-color: #ff8000;
+    background-color: #00cccc;
 }
 
-h1 {
-    color: #33ffff;
+.jumbotron {
+    background-color: #009999;
+}
+
+.jumbotron .title {
+    color: #00ff00;
 }
